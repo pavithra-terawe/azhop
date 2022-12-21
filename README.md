@@ -1,6 +1,9 @@
 # HPC Skilling Hands-On Exercises
 azhop Module
 
+![Graphical user interface, text, application, email
+Description automatically generated](media/azhop_architecture.png)
+
 ## <u>Objective</u>
 
 -   Create a deployment VM
