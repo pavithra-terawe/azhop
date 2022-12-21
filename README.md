@@ -1,5 +1,14 @@
 # HPC Skilling Hands-On Exercises
-azhop Module
+Azure HPC OnDemand Platform or azhop, delivers an end-2-end deployment mechanism for a complete HPC cluster solution in Azure. Industry standard tools like Terraform, Ansible and Packer are used to provision and configure this environment containing :
+
+* An OpenOn Demand Portal for a unified user access, remote shell access, remote visualization access, job submission, file access and more,
+* An Active Directory for user authentication and domain control,
+* An Open PBS or SLURM Job Scheduler,
+* Azure Cycle Cloud to handle autoscaling of nodes thru job scheduler integration,
+* A Jumpbox to provide admin access,
+* Azure Netapp Files for home directory and data storage,
+* A Lustre cluster for the scratch storage with HSM capbilities to Azure Blobs thru a RobinHood integration,
+* Grafana dashboards to monitor your cluster
 
 ![Graphical user interface, text, application, email
 Description automatically generated](media/azhop_architecture.png)
